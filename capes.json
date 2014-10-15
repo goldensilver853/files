@@ -6,5 +6,10 @@
       "miner_moose"
     ]
   },
-  "goldensilver853": "http://i.imgur.com/Udi17RM.png"
+    "dev": {
+    "capeUrl": "http://i.imgur.com/Udi17RM.png",
+    "users": [
+      "goldensilver853"
+    ]
+  }
 }
